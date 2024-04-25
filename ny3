@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,15 +6,7 @@
     <title>API Interaction App</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        #app {
-            max-width: 600px;
-            margin: 0 auto;
-        }
-
+            font-fami
         #result {
             margin-top: 20px;
         }
