@@ -14,16 +14,7 @@
 </head>
 <body>
     <div id="app">
-        <h1>API Interaction App</h1>
-        <label for
-
-    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-    <script src="app.js"></script>
-</body>
-</html>
- <!DOCTYPE html>
-<html lang="en">
-<head>
+        <
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>API Interaction App</title>
